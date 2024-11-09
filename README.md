@@ -1,6 +1,8 @@
 Top-Courses
 
 Steps
+
+
 Navbar Component
 First, you need to create a Navbar component to display the main title of app. This component can be a simple function that returns a heading element with the app title.
 
